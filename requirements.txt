@@ -1,0 +1,13 @@
+numpy
+scikit-learn
+scipy
+networkx
+pandas
+openpyxl
+matplotlib
+openai
+sentence-transformers
+InstructorEmbedding
+
+# Optional (needed for HDBSCAN in scripts/cluster_evaluation_protocol.py)
+# hdbscan
