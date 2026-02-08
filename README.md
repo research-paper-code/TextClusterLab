@@ -84,7 +84,7 @@ python scripts/cluster_evaluation_protocol.py \
 
 This evaluates KMeans, HDBSCAN, and Agglomerative clustering and saves a result table.
 
-### 3) End-to-end synthetic augmentation + evaluation
+### 3) End-to-end synthesis + evaluation
 
 Before running, start an OpenAI-compatible LLM endpoint (for example vLLM) and set:
 
