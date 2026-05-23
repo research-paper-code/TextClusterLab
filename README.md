@@ -1,6 +1,6 @@
-# TextClusterLab
+# TextClusterGen
 
-TextClusterLab is a research-oriented toolkit for text embedding analysis, clustering evaluation, and synthetic data augmentation for intent-style datasets.
+TextClusterGen is a research-oriented toolkit for text embedding analysis, clustering evaluation, and synthetic data augmentation for intent-style datasets.
 
 It combines:
 
@@ -12,7 +12,7 @@ It combines:
 ## Project Structure
 
 ```text
-TextClusterLab/
+TextClusterGen/
 ├── datasets/                      # Example JSONL datasets
 ├── local_models/                  # Place local embedding models here (optional)
 ├── scripts/
